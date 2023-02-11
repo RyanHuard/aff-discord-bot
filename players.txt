@@ -1,0 +1,27 @@
+First Name	Last Name	Position	College	Rating	Potential	Personality	Age	Former Team
+Maverick	Lee	LDT	California	81	87	Big Dreams	26	Knights
+Jack	Shark	QB	Wisconsin	80	83	Gold Digger	27	Rhythm
+Kody	Bright	WR	Baylor	80	83	Prime Time	27	Bison
+Nolan	Downs	P	West Virginia	79	85	Invincible	26	Cannons
+Duane	Stine	CB	Colorado	79	82	Champion	27	Cannons
+Chase	Mills	RDE	Iowa State	79	82	Gold Digger	27	Cannons
+Kevin	Madrid	ILB	Rutgers	79	82	Paperweight	27	Knights
+Emmett	Pope	WR	South Carolina	78	81	Champion	27	Cluck
+Rhett	Cochran	CB	Kansas State	77	80	Hothead	27	Cluck
+Merv	Iverson	P	Tennessee	77	80	Champion	27	Knights
+Hershel	Hailey	P	Washington	77	80	Early Bloomer	27	Knights
+Eddie	Winters	ILB	Vanderbilt	76	79	Captain	27	Cannons
+Jacob	Hughes	RB	Texas	76	79	Hothead	27	Knights
+Jerome	Craig	SS	Syracuse	76	79	Loyal	27	Knights
+Blake	Sharp	QB	Nebraska	76	79	Early Bloomer	27	Knights
+Caleb	Williamson	WR	Penn State	75	78	Captain	27	Rhythm
+Ashten	Orth	CB	Vanderbilt	75	78	Paperweight	27	Knights
+Marty	Hunnicutt	CB	Washington	75	78	Loyal	27	Knights
+Sean	Bell	TE	Duke	74	77	Sore Loser	27	Rhythm
+JaVonn	Hepner	CB	UCLA	74	77	Paperweight	27	Bison
+Bruce	Keller	LT	Vanderbilt	74	77	Sore Loser	27	Bison
+Ricky	Gant	LDT	Penn State	74	77	Sore Loser	27	Cannons
+Hayden	Dunn	FS	Florida State	73	79	Paperweight	26	Racers
+Julien	Hess	K	Stanford	72	78	Paperweight	26	Cluck
+Harley	Price	RB	Alabama	70	73	Invincible	27	Bison
+Markus	Bernard	TE	TCU	70	73	Gold Digger	27	Knights
